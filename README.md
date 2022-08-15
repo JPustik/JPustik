@@ -19,5 +19,4 @@ I am studying on the GeekBrains Fullstack JavaScript course
   
  </div>
  <h1></h1>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpustik&layout=compact&theme=vision-friendly-dark">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=jpustik&theme=dark&background=000000">
