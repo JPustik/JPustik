@@ -6,6 +6,8 @@ I am studying on the GeekBrains Fullstack JavaScript course
 <div>
     <img src="https://img.shields.io/badge/Java-black?style=for-the-badge&logo=Java" alt="Java"/>
     <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=Git" alt="Git"/>
+    <img src="https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=HTML5" alt="HTML5"/>
+    <img src="https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=CSS3" alt="CSS3"/>
  </div>
  <h1></h1>
  <h3>✍Contact me</h3>
