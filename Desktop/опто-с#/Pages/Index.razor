@@ -1,0 +1,21 @@
+
+@page "/"
+@using System.Math
+
+<div class="container">
+    <h1>Виртуальный лабораторный стенд ОР (Blazor)</h1>
+    <button @onclick="Generate">Снять рефлектограмму</button>
+    <div id="plot"></div>
+</div>
+
+@code {
+    double[] distances = [];
+    double[] signals = [];
+
+    void Generate()
+    {
+        var res = OTDR.Calculate(new OTDR.Params());
+        distances = res.distance;
+        signals = res.logF;
+    }
+}
