@@ -1,9 +1,9 @@
 <h1 align="center">Здравствуйте. Меня зовут Артём👋</h1>
 <h3>🤔Обо мне</h3>
 Я студент 4 курса бакалавриата, вуза «СПБГУТ», факультет «Радиоэлектронных систем и робототехники», направление «Автоматизация технологических процессов и производств».
-Проходил курсы GeekBrains frontend-разработчик. Я делал разные проекты, например: Интернет-магазин(для портфолио), сайт спецтехники в аренду(для компании «РусПромТех»).
+Проходил курсы GeekBrains frontend-разработчик. Я делал разные проекты, например: Интернет-магазин(для портфолио), сайт спецтехники в аренду(для компании «РусПромТех»). Оба эти прокета закрепил ниже)
 <h1></h1>
-<h3>💪🏼My skills</h3>
+<h3>💪🏼Мои скиллы</h3>
 <div>
     <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=JavaScript" alt="JavaScript"/>
     <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=Git" alt="Git"/>
@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=CSS3" alt="CSS3"/>
  </div>
  <h1></h1>
- <h3>✍Contact me</h3>
+ <h3>✍Мои контакты</h3>
  <div>
   <a href="https://t.me/jpustik"><img
                 src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram" alt="Telegram"></a>
